@@ -13,7 +13,8 @@ If you want to use our RLZX-LDD dataset, you could follow the **dataloader** and
 We will publish the download link once the paper is accepted.
 
 # 4.Models
-In this paper, we ultilized the following models to validate our datasets:
+In this paper, we ultilized the following models to validate our datasets:  
+
 U²-net:https://github.com/xuebinqin/U-2-Net  
 
 Deeplabv3+:https://github.com/jfzhang95/pytorch-deeplab-xception  
