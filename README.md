@@ -13,7 +13,7 @@ If you want to use our RLZX-LDD dataset, you could follow the **dataloader** and
 Fu, Z., Wang, F., Ma, H., You, Q. & Feng, Y. Records of shallow landslides triggered by extreme rainfall in July 2024 in Zixing, China.
 Figshare https://doi.org/10.6084/m9.fgshare.27960762 (2025).
 
-The data is now openly accessible on figshare as the link above, if you publish your papers using our data, please cite our work on *Scientific Data*
+The data is now openly accessible on figshare as the link above, **if you publish your papers using our data, please cite our work on *Scientific Data***
 
 # 4.Models
 In this paper, we ultilized the following models to validate our datasets:  
