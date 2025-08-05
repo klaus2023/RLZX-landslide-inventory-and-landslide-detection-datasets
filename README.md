@@ -1,6 +1,6 @@
 
 # 1. RLZX dataset
-RLZX is a landslide dataset created by Z.F., F.W and others, documenting 19,403 landslides triggered by Typhoon and extreme rainfall (historical record-breaking). 
+RLZX is a landslide dataset created by Z.F., F.W and others, documenting 19,403 landslides triggered by Typhoon and extreme rainfall (historical record-breaking) in Zixing, Hunan, China. 
 
 The dataset consists of two main components: **RLZX-LIM**(landslide inventory, in shapefile format) and **RLZX-LDD** (landslide detection dataset). These data are intended to provide foundational data for landslide risk researches and landslide detection studies, promoting the development of research in relative fields.
 
