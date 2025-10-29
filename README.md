@@ -4,7 +4,8 @@ RLZX is a landslide dataset created by Z.F., F.W and others, documenting 19,403 
 
 The dataset consists of two main components: **RLZX-LIM**(landslide inventory, in shapefile format) and **RLZX-LDD** (landslide detection dataset). These data are intended to provide foundational data for landslide risk research and automatic landslide detection studies, promoting the development of research in relative fields.
 
-The manuscript has now been published on the "Scientific Data" journal, anyone can access the building process and description of these data by reading this paper (the source is in **Data download**).
+The manuscript has now been published on the "Scientific Data" journal, anyone can access the building process and description of these data by reading this paper: 
+Fu, Z., Wang, F., Ma, H. et al. Records of shallow landslides triggered by extreme rainfall in July 2024 in Zixing, China. Sci Data 12, 1364 (2025). https://doi.org/10.1038/s41597-025-05670-w.
 
 # 2. Data processing
 If you want to use our RLZX-LDD dataset, you could follow the **dataloader** and the **tools** we provided in this repository.
